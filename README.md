@@ -13,3 +13,6 @@
 
 <h3>Extrair Classe</h3>
 <p>Extrair classe e uma evolucao de Extrair Metodo Usamos essa tecnica quando uma classe possui mais de uma responsabilidade. Para construir a nova classe, vamos usar utilizar a tecnica Mover Campo e Mover Metodo.</p>
+
+<h3>Padroes de Projeto</h3>
+<p>Podemos definir padroes de projeto como uma solucao comum para um problema em um detrerminado contexto.</p>
