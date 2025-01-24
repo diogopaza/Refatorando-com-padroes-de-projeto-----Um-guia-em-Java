@@ -7,3 +7,6 @@
 
 <h3>Mover metodo</h3>
 <p>Mover metodo pode ser usado quando temos um método que utiliza mais informacoes de outra classe do duqe da propria. Assim reduzimos a complexidade do codigo, pois o metodo vai ter acesso a todas as informacoes locais da nova classe em vez de ficar perguntando antes de tomar acoes.</p>
+
+<h3>Mover campo</h3>
+<p>Util quando um atributo e mais usado em outra classe doque em sua propria.</p>
