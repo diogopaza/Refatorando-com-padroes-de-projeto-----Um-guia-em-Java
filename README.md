@@ -19,5 +19,6 @@
 </p>
 <p></p>
 
-
+<h3>Referencias</h3>
+<p>Este repositorio e um estudo e implementacao do livro abaixo:</p>
 <p><sub>Livro: Refatorando com padrões de projeto - Um guia em Java</sub></p>
