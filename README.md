@@ -15,4 +15,6 @@
 <p>Extrair classe e uma evolucao de Extrair Metodo Usamos essa tecnica quando uma classe possui mais de uma responsabilidade. Para construir a nova classe, vamos usar utilizar a tecnica Mover Campo e Mover Metodo.</p>
 
 <h3>Padroes de Projeto</h3>
-<p>Podemos definir padroes de projeto como uma solucao comum para um problema em um detrerminado contexto.</p>
+<p>Podemos definir padroes de projeto como uma solucao comum para um problema em um determinado contexto. Todos os padroes tentam resolver algum tipo de especifico de problema. O contexto de um problema e o fator principal ao decidir aplicar um padrao ou nao. Apçicar um padrao por aplicar pode resultar em um design muito mais complexo do que o necessario.
+</p>
+<p></p>
