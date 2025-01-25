@@ -18,3 +18,6 @@
 <p>Podemos definir padroes de projeto como uma solucao comum para um problema em um determinado contexto. Todos os padroes tentam resolver algum tipo de especifico de problema. O contexto de um problema e o fator principal ao decidir aplicar um padrao ou nao. Apçicar um padrao por aplicar pode resultar em um design muito mais complexo do que o necessario.
 </p>
 <p></p>
+
+
+<p><sub>Livro: Refatorando com padrões de projeto - Um guia em Java</sub></p>
