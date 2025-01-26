@@ -17,8 +17,19 @@
 <h3>Padroes de Projeto</h3>
 <p>Podemos definir padroes de projeto como uma solucao comum para um problema em um determinado contexto. Todos os padroes tentam resolver algum tipo de especifico de problema. O contexto de um problema e o fator principal ao decidir aplicar um padrao ou nao. Apçicar um padrao por aplicar pode resultar em um design muito mais complexo do que o necessario.</p>
 
-<h3>Pensando Orientado a Objetos</h3>
-<p></p>
+<h3>Caracteristicas do Java</h3>
+<p>Java e estaticamente tipado, e o compilador faz as validacoes de tipos antes mesmo do programa executar. Porem nem tudo em Java e representado como um Objeto. Um bom exemplo sao os tipos primitivos, como o int, que nao posseum metodos para serem chamados.</p>
+
+<h3>Polimorfismo</h3>
+<p>Todo Objeto em Java herda de uma classe - java.lang.Object, assim Object e considerado um tipo mais generico. Ser generico quer dizer, de maneira simplificada, que uma variavel do tipo Object pode receber qualquer outro Objeto. 
+  
+```java
+Object	variavelGenerica	=	new	String();
+variavelGenerica	=	new	Integer();
+variavelGenerica	=	new	MinhaClasse();
+```
+
+</p>
 
 
 <h3>Referencias</h3>
