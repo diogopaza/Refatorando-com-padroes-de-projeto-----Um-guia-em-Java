@@ -65,6 +65,10 @@ variavelGenerica =	new	MinhaClasse();
     ```
 </p>
 
+<h2>Padroes Comuns</h2>
+<h3>Factory: Gerenciando a criacao de Objetos</h3>
+<p></p>
+
 
 
 
